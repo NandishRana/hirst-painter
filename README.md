@@ -1,7 +1,11 @@
 
 # 🎨 Flumequine-inspired Art Generator 🎨
 
-This program harnesses the power of Python's turtle module to produce an artwork inspired by Damien Hirst's 2007 etching, "Flumequine". Dive into the world of generative art and recreate the mesmerizing patterns, hues, and shades found in the original masterpiece.
+This program harnesses the power of Python's turtle module to produce an artwork inspired by Damien Hirst's 2007 etching, "Flumequine" (~£30,000). Dive into the world of generative art and recreate the mesmerizing patterns, hues, and shades found in the original masterpiece.
+
+## 🖼️ Screenshot
+
+![Alt text for the image](/image.jpg)
 
 ## 🌈 Features
 
