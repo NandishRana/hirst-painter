@@ -9,12 +9,24 @@ This program harnesses the power of Python's turtle module to produce an artwork
 2. **Turtle Graphics**: Uses the turtle module to draw and paint on the canvas.
 3. **Rapid Art Creation**: Optimized for speed, allowing for quick art generation.
 
+## 🛠️ Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/NandishRana/hirst-painter.git
+   cd hirst-painter
+   ```
+
+2. **Run Game:**
+   ```bash
+   python main.py
+   ```
+
 ## 🚀 Usage
 
 1. Ensure you have Python installed.
-2. Run the `main.py` script.
-3. Watch as the turtle crafts a masterpiece on your screen, dot by dot.
-4. Once completed, you can save or screenshot your art piece.
+2. Watch as the turtle crafts a masterpiece on your screen, dot by dot.
+3. Once completed, you can save or screenshot your art piece.
 
 ## 📜 Note
 
